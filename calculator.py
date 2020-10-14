@@ -10,3 +10,6 @@ def multiply(a, b):
 
 def divide_fre (a,b):
 regurn a/b
+
+def get_Remainder (a,b):
+regurn a//b
