@@ -14,3 +14,6 @@ regurn a/b
 def get_Remainder (a,b):
 regurn a//b
 
+
+def get_Abs(num):
+if num
